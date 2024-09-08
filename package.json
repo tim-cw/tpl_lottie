@@ -1,6 +1,6 @@
 {
   "name": "timtools",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "private": true,
   "description": "Stack de développement frontend",
   "author": {
@@ -9,6 +9,9 @@
   "scripts": {
     "start": "cross-env NODE_ENV=development gulp --openssl-legacy-provider",
     "build": "cross-env NODE_ENV=production gulp --openssl-legacy-provider build"
+  },
+  "dependencies": {
+    "swiper": "^11.1.9"
   },
   "devDependencies": {
     "@babel/core": "^7.16.7",

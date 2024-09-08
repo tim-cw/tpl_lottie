@@ -9,5 +9,5 @@
     - N'hésitez pas à ajouter d'autres options qui pourrait être intéressante pour VOTRE coffre à outils TimTools
 
 <br><br><br><hr>
-Préparé par : Jean-François Leblanc  
-_timtools v1.3_
+Préparé par : Jean-François Leblanc et Matthieu Parent
+_timtools v1.4_
